@@ -21,12 +21,18 @@
   }
 
 
+    .bounceIn div {
+        .bounceIn div {
+            -webkit-animation: bounceIn, 2s, infinite;
+            animation: bounceIn, 2s, infinite;
+      }
+      
+      h1 {
+          color:yellowgreen
+      }
 
-.bounceIn div {
-  -webkit-animation: bounceIn, 2s, infinite;
-   animation: bounceIn, 2s, infinite;
-}
+      
 
-h1 {
-    color:yellowgreen
+    
+
 }
