@@ -22,9 +22,9 @@
 
 
     .bounceIn div {
-        .bounceIn div {
-            -webkit-animation: bounceIn, 2s, infinite;
-            animation: bounceIn, 2s, infinite;
+           -webkit-animation: bounceIn, 2s, infinite;
+            animation-name: bounceIn;
+            animation-duration: 4s;
       }
       
       h1 {
@@ -35,4 +35,4 @@
 
     
 
-}
+
